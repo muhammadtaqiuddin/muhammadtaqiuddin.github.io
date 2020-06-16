@@ -213,7 +213,7 @@ a:hover {
         display: grid;
         height: 100vh;
         grid-template-columns: 1fr;
-        grid-template-rows: 0.5fr 0.45fr 3fr 0.5fr;
+        grid-template-rows: 0.5fr 0.4fr 6fr 0.3fr;
         grid-template-areas:
         "logo"
         "navbar"
@@ -224,7 +224,7 @@ a:hover {
 
     .navbar {
         justify-content: center;
-        padding-top: 10px;
+
     }
 
     
