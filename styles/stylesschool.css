@@ -170,6 +170,7 @@ a:hover {
     grid-area: content1;
     text-align: center;
     background-color: whitesmoke;
+    padding-top: 10px;
 }
 
 .content2 {
@@ -231,9 +232,10 @@ a:hover {
 
     .navbar {
         justify-content: center;
+        padding-top: 10px;
     }
 
- 
+    
 
     .content1 img {
     
@@ -245,6 +247,7 @@ a:hover {
 
     .content1 h1 {
         font-size: 30px;
+        padding-top: 10px;
     }
 
     .content1 p {
